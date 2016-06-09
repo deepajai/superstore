@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1457879435 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyarray.cpp
+	"FancyArray.h"
+	<typeinfo>
+
+1457873690 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyarray.h
+	<iostream>
+	<math.h>
+
+1457948026 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancybalancer.cpp
+	"FancyBalancer.h"
+	<typeinfo>
+	<iostream>
+	<string>
+
+1457877563 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancybalancer.h
+	"FancyStack.cpp"
+
+1457431268 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancystack.cpp
+	"FancyStack.h"
+
+1457431626 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancystack.h
+	"FancyArray.cpp"
+
+1457879435 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyarray.cpp
+	"FancyArray.h"
+	<typeinfo>
+
+1458025997 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyexpression.cpp
+	"FancyExpression.h"
+	<typeinfo>
+	<iostream>
+	<string>
+
+1458024689 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyexpression.h
+	"FancyStack.cpp"
+
+1458721522 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancynode.cpp
+	"FancyNode.h"
+	<iostream>
+
+1458716769 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancynode.h
+
+1458024154 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyqueue.cpp
+	"FancyQueue.h"
+
+1458639996 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyqueue.h
+	"FancyArray.cpp"
+
+1458032606 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyqueuecircular.cpp
+	"FancyQueueCircular.h"
+
+1458032513 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyqueuecircular.h
+	"FancyArray.cpp"
+
+1457422568 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyset.cpp
+	"FancySet.h"
+
+1457375687 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyset.h
+	"FancyArray.cpp"
+
+1457431268 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancystack.cpp
+	"FancyStack.h"
+
+1458721992 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\main.cpp
+	"FancySet.cpp"
+	"FancyStack.cpp"
+	"FancyBalancer.h"
+	"FancyExpression.h"
+	"FancyQueueCircular.cpp"
+	<vector>
+	<iomanip>
+	"FancyLinkList.cpp"
+
+1457422568 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyset.cpp
+	"FancySet.h"
+
+1458032606 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancyqueuecircular.cpp
+	"FancyQueueCircular.h"
+
+1458722413 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancylinklist.cpp
+	"FancyLinkList.h"
+	"FancyNode.h"
+	<iostream>
+
+1458721873 t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancylinklist.h
+
+1458722413 source:t:\uni management\sem 4\datastructures and algorithms\lab\lab 0\a\a\fancylinklist.cpp
+	"FancyLinkList.h"
+	"FancyNode.h"
+	<iostream>
+
+1458753861 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyarray.cpp
+	"FancyArray.h"
+	<typeinfo>
+
+1458753875 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyarray.h
+	<iostream>
+	<math.h>
+
+1457948026 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancybalancer.cpp
+	"FancyBalancer.h"
+	<typeinfo>
+	<iostream>
+	<string>
+
+1457877563 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancybalancer.h
+	"FancyStack.cpp"
+
+1458727493 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancystack.cpp
+	"FancyStack.h"
+
+1457431626 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancystack.h
+	"FancyArray.cpp"
+
+1458753861 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyarray.cpp
+	"FancyArray.h"
+	<typeinfo>
+
+1458025997 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyexpression.cpp
+	"FancyExpression.h"
+	<typeinfo>
+	<iostream>
+	<string>
+
+1458024689 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyexpression.h
+	"FancyStack.cpp"
+
+1458722413 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancylinklist.cpp
+	"FancyLinkList.h"
+	"FancyNode.h"
+	<iostream>
+
+1458721873 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancylinklist.h
+
+1458716769 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancynode.h
+
+1458721522 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancynode.cpp
+	"FancyNode.h"
+	<iostream>
+
+1458024154 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyqueue.cpp
+	"FancyQueue.h"
+
+1458639996 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyqueue.h
+	"FancyArray.cpp"
+
+1458032606 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyqueuecircular.cpp
+	"FancyQueueCircular.h"
+
+1458032513 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyqueuecircular.h
+	"FancyArray.cpp"
+
+1457422568 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyset.cpp
+	"FancySet.h"
+
+1457375687 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyset.h
+	"FancyArray.cpp"
+
+1458727493 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancystack.cpp
+	"FancyStack.h"
+
+1458738515 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\customer.cpp
+	"customer.h"
+
+1458738657 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\customer.h
+	<iostream>
+
+1458739116 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\item.cpp
+	"item.h"
+
+1458739354 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\item.h
+	<iostream>
+
+1462862861 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\main.cpp
+	"FancySet.cpp"
+	"FancyStack.cpp"
+	"FancyBalancer.h"
+	"FancyExpression.h"
+	"FancyQueueCircular.cpp"
+	<vector>
+	<iomanip>
+	"FancyLinkList.cpp"
+	"superstore.h"
+	"item.h"
+	"saleperson.h"
+	"customer.h"
+
+1457422568 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyset.cpp
+	"FancySet.h"
+
+1458032606 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancyqueuecircular.cpp
+	"FancyQueueCircular.h"
+
+1458722413 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\fancylinklist.cpp
+	"FancyLinkList.h"
+	"FancyNode.h"
+	<iostream>
+
+1458735126 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\superstore.h
+	"FancyArray.h"
+	"Customer.h"
+	"Item.h"
+	"SalePerson.h"
+
+1458734845 t:\uni management\sem 4\datastructures and algorithms\lab\superstore\saleperson.h
+	"FancyArray.h"
+	"Customer.h"
+	<iostream>
+
+1458732076 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\saleperson.cpp
+	"saleperson.h"
+	"FancyArray.cpp"
+	"Customer.h"
+
+1458735147 source:t:\uni management\sem 4\datastructures and algorithms\lab\superstore\superstore.cpp
+	"superstore.h"
+	"FancyArray.cpp"
+

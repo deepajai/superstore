@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="a" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/a" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-std=c++11" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/a" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="FancyArray.cpp" />
+		<Unit filename="FancyArray.h" />
+		<Unit filename="FancyBalancer.cpp" />
+		<Unit filename="FancyBalancer.h" />
+		<Unit filename="FancyLinkList.cpp" />
+		<Unit filename="FancyLinkList.h" />
+		<Unit filename="FancyNode.cpp" />
+		<Unit filename="FancyNode.h" />
+		<Unit filename="FancyQueue.cpp" />
+		<Unit filename="FancyQueue.h" />
+		<Unit filename="FancyQueueCircular.cpp" />
+		<Unit filename="FancyQueueCircular.h" />
+		<Unit filename="FancySet.cpp" />
+		<Unit filename="FancySet.h" />
+		<Unit filename="FancyStack.cpp" />
+		<Unit filename="FancyStack.h" />
+		<Unit filename="customer.cpp" />
+		<Unit filename="customer.h" />
+		<Unit filename="item.cpp" />
+		<Unit filename="item.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="saleperson.cpp" />
+		<Unit filename="saleperson.h" />
+		<Unit filename="superstore.cpp" />
+		<Unit filename="superstore.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
